@@ -1,0 +1,9 @@
+{
+  "rec.low_n_title": "Nitrogen deficiency detected",
+  "rec.low_n_summary": "Soil N is low — yield may reduce. Apply urea to improve yield.",
+  "rec.step_apply_urea": "Apply {kg_per_ha} kg/ha urea now",
+  "rec.step_irrigate_if_no_rain": "Irrigate within {days} days if no rain",
+  "tip.onboarding_1": "Save your farm boundary by walking the field or drawing on map.",
+  "tip.onboarding_2": "Add a soil test to get fertilizer advice.",
+  "tip.onboarding_3": "Use the predictive report before sowing to plan inputs."
+}
