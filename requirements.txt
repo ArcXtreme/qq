@@ -7,7 +7,7 @@ passlib[bcrypt]==1.7.4
 pydantic==1.10.11
 geoalchemy2
 python-dotenv
-databases=
+databases
 typing_extensions==4.7.1
 httpx==0.25.0
 pytest==7.4.0
